@@ -1,8 +1,8 @@
-# zero-day
+# zero-day :zero:
 
 This repository contains files written for vagrant and git projects completed for my first day, zero-day, at Holberton School.
 
-## List of projects:
+## List of projects: :book:
 
 - [0x00-vagrant](https://github.com/ChrissLind/holbertonschool-zero_day/tree/main/0x00-vagrant)
 - [0x03-git](https://github.com/ChrissLind/holbertonschool-zero_day/tree/main/0x03-git)
